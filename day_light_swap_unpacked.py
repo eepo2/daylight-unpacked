@@ -162,4 +162,3 @@ else:
 
 
     swap()
-# okay decompiling light.pyc
